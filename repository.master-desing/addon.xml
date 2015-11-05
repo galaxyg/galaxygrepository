@@ -1,16 +1,14 @@
 <xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.master-desing" name="Kodi-Mexico official Repo" version="1.3.0" provider-name="KodiMexico">
-	<extension point="xbmc.addon.repository" name="Kodi-Mexico official Repo">
+<addon id="repository.master-desing" name="Master Desing" version="1.3.0" provider-name="Master Desing">
+	<extension point="xbmc.addon.repository" name="Master official Repo">
 		<info compressed="false">https://raw.github.com/galaxyg/galaxygrepository/addons.xml</info>
 		<checksum>https://raw.github.com/galaxyg/galaxygrepository/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.github.com/galaxyg/galaxygrepository/master</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Galaxy G official Repo</summary>
-   		<description lang="en">Instala los Addons de Kodi Mexico.</description>
+   		<description lang="en">Instala los Addons de Albert .</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>
 </addon>
-
-https://
