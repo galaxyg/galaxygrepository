@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.master-desing" name="MASTER DESING" version="1.9.0" provider-name="ALBERT">
+<addon id="repository.master-desing" name="MASTER DESING" version="14.1" provider-name="ALBERT">
 	<extension point="xbmc.addon.repository" name="Master desing">
 		<info compressed="false">https://raw.github.com/galaxyg/galaxygrepository/master/addons.xml</info>
 		<checksum>https://raw.github.com/galaxyg/galaxygrepository/master/addons.xml.md5</checksum>
